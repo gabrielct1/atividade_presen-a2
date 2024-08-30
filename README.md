@@ -1,1 +1,3 @@
-# atividade_presen-a2
+# atividade_presenca2
+
+## Código feito com ajuda do ChatGPT
